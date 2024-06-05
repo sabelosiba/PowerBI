@@ -24,6 +24,11 @@
 - append and merge tables
 
 ## model data
--  a fact table forms the center of a star, while dimension tables, when placed around a fact table, represent the points of the star.
--  The role of a fact table is to store an accumulation of rows that represent observations or events that record a specific business activity.
--   Reports can query data models by using one of two analytic languages: Data Analysis Expressions (DAX) or Multidimensional Expressions (MDX). 
+- a fact table forms the center of a star, while dimension tables, when placed around a fact table, represent the points of the star.
+- The role of a fact table is to store an accumulation of rows that represent observations or events that record a specific business activity.
+- Reports can query data models by using one of two analytic languages: Data Analysis Expressions (DAX) or Multidimensional Expressions (MDX).
+- By using Data Analysis Expressions (DAX),
+  - Calculated tables
+  - Calculated columns
+  - Measures
+
