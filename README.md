@@ -32,3 +32,7 @@
   - Calculated columns
   - Measures
 
+
+
+# POWER BI - institution dashboard
+![image](https://github.com/sabelosiba/PowerBI/assets/88839789/e215a95e-47c3-4986-a7b3-54e95b97491a)
